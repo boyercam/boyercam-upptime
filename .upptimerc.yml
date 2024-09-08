@@ -9,6 +9,8 @@ sites:
     url: https://hydrogen.irguk.co.uk
   - name: Rachel Owens Website
     url: https://www.rachelowens.co.uk
+  - name: Duck
+    url: $SEC_DUCK
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
