@@ -58,19 +58,19 @@
     "url": "$SEC_DUCK",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "duck",
-    "status": "down",
-    "uptime": "98.82%",
-    "uptimeDay": "95.39%",
-    "uptimeWeek": "98.82%",
-    "uptimeMonth": "98.82%",
-    "uptimeYear": "98.82%",
-    "time": 4831,
-    "timeDay": 6593,
-    "timeWeek": 4831,
-    "timeMonth": 4831,
-    "timeYear": 4831,
+    "status": "up",
+    "uptime": "98.55%",
+    "uptimeDay": "94.31%",
+    "uptimeWeek": "98.55%",
+    "uptimeMonth": "98.55%",
+    "uptimeYear": "98.55%",
+    "time": 5203,
+    "timeDay": 6982,
+    "timeWeek": 5203,
+    "timeMonth": 5203,
+    "timeYear": 5203,
     "dailyMinutesDown": {
-      "2024-09-12": 66
+      "2024-09-12": 82
     }
   }
 ]
