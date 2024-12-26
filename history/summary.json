@@ -58,7 +58,7 @@
     "url": "$SEC_DUCK",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "duck",
-    "status": "up",
+    "status": "down",
     "uptime": "95.62%",
     "uptimeDay": "79.66%",
     "uptimeWeek": "97.09%",
