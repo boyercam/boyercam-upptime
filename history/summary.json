@@ -22,9 +22,9 @@
     "url": "https://hydrogen.irguk.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/hydrogen.irguk.co.uk.ico",
     "slug": "irguk-hydrogen",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 1894,
     "timeMonth": 1193,
     "timeYear": 1177,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-08": 0
+    }
   },
   {
     "name": "Rachel Owens Website",
