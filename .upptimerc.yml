@@ -12,8 +12,8 @@ sites:
     url: https://hydrogen.irguk.co.uk
   - name: Rachel Owens Website
     url: https://www.rachelowens.co.uk
-  - name: Duck
-    url: $SEC_DUCK
+  #- name: Duck
+  #  url: $SEC_DUCK
   - name: DDNS
     url: $SEC_DDNS
 
