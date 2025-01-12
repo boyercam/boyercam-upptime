@@ -58,7 +58,7 @@
     "url": "$SEC_DDNS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ddns",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -70,6 +70,7 @@
     "timeMonth": 656,
     "timeYear": 562,
     "dailyMinutesDown": {
+      "2025-01-12": 0,
       "2024-12-10": 115,
       "2024-10-06": 21
     }
