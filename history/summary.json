@@ -58,7 +58,7 @@
     "url": "$SEC_DDNS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ddns",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
     "uptimeDay": "95.42%",
     "uptimeWeek": "99.35%",
