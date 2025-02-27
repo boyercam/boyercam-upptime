@@ -4,9 +4,9 @@
     "url": "https://www.irguk.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.irguk.co.uk.ico",
     "slug": "irguk-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 692,
     "timeMonth": 1488,
     "timeYear": 1619,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-27": 0
+    }
   },
   {
     "name": "IRGUK Hydrogen",
@@ -40,7 +42,7 @@
     "url": "https://www.rachelowens.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.rachelowens.co.uk.ico",
     "slug": "rachel-owens-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,7 +53,9 @@
     "timeWeek": 656,
     "timeMonth": 703,
     "timeYear": 624,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-27": 0
+    }
   },
   {
     "name": "DDNS",
