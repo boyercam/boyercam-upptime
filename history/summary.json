@@ -4,16 +4,16 @@
     "url": "https://www.irguk.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.irguk.co.uk.ico",
     "slug": "irguk-website",
-    "status": "up",
-    "uptime": "99.55%",
-    "uptimeDay": "91.33%",
-    "uptimeWeek": "94.79%",
-    "uptimeMonth": "96.84%",
-    "uptimeYear": "99.39%",
+    "status": "down",
+    "uptime": "99.56%",
+    "uptimeDay": "93.71%",
+    "uptimeWeek": "95.12%",
+    "uptimeMonth": "96.95%",
+    "uptimeYear": "99.40%",
     "time": 947,
-    "timeDay": 722,
-    "timeWeek": 742,
-    "timeMonth": 695,
+    "timeDay": 709,
+    "timeWeek": 745,
+    "timeMonth": 693,
     "timeYear": 776,
     "dailyMinutesDown": {
       "2026-01-16": 52,
@@ -73,8 +73,7 @@
       "2025-10-13": 20,
       "2025-10-11": 21,
       "2025-10-09": 24,
-      "2025-10-04": 17,
-      "2025-10-03": 31
+      "2025-10-04": 17
     }
   },
   {
@@ -83,7 +82,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/hydrogen.irguk.co.uk.ico",
     "slug": "irguk-hydrogen",
     "status": "up",
-    "uptime": "97.93%",
+    "uptime": "97.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -112,16 +111,16 @@
     "url": "https://www.rachelowens.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.rachelowens.co.uk.ico",
     "slug": "rachel-owens-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "91.41%",
-    "uptimeWeek": "94.83%",
-    "uptimeMonth": "96.90%",
+    "uptimeDay": "93.78%",
+    "uptimeWeek": "95.16%",
+    "uptimeMonth": "97.01%",
     "uptimeYear": "99.35%",
     "time": 787,
-    "timeDay": 811,
-    "timeWeek": 872,
-    "timeMonth": 851,
+    "timeDay": 758,
+    "timeWeek": 868,
+    "timeMonth": 849,
     "timeYear": 832,
     "dailyMinutesDown": {
       "2026-01-16": 52,
@@ -181,8 +180,7 @@
       "2025-10-23": 27,
       "2025-10-20": 108,
       "2025-10-13": 20,
-      "2025-10-11": 21,
-      "2025-10-09": 24
+      "2025-10-11": 21
     }
   },
   {
