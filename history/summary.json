@@ -4,18 +4,19 @@
     "url": "https://www.irguk.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.irguk.co.uk.ico",
     "slug": "irguk-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.44%",
-    "uptimeDay": "92.42%",
+    "uptimeDay": "96.76%",
     "uptimeWeek": "89.98%",
     "uptimeMonth": "92.54%",
     "uptimeYear": "99.19%",
     "time": 912,
-    "timeDay": 690,
+    "timeDay": 737,
     "timeWeek": 660,
     "timeMonth": 693,
     "timeYear": 711,
     "dailyMinutesDown": {
+      "2026-02-20": 0,
       "2026-02-19": 109,
       "2026-02-18": 156,
       "2026-02-17": 16,
@@ -58,8 +59,7 @@
       "2026-01-03": 106,
       "2026-01-02": 104,
       "2025-12-31": 60,
-      "2025-12-30": 25,
-      "2025-12-29": 19
+      "2025-12-30": 25
     }
   },
   {
@@ -97,18 +97,19 @@
     "url": "https://www.rachelowens.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.rachelowens.co.uk.ico",
     "slug": "rachel-owens-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.44%",
-    "uptimeDay": "92.45%",
+    "uptimeDay": "96.79%",
     "uptimeWeek": "90.03%",
     "uptimeMonth": "92.58%",
     "uptimeYear": "99.19%",
     "time": 799,
-    "timeDay": 869,
+    "timeDay": 924,
     "timeWeek": 847,
     "timeMonth": 881,
     "timeYear": 846,
     "dailyMinutesDown": {
+      "2026-02-20": 0,
       "2026-02-19": 109,
       "2026-02-18": 156,
       "2026-02-17": 16,
@@ -151,8 +152,7 @@
       "2026-01-03": 105,
       "2026-01-02": 103,
       "2025-12-31": 60,
-      "2025-12-30": 25,
-      "2025-12-29": 19
+      "2025-12-30": 25
     }
   },
   {
