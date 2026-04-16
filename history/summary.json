@@ -6,17 +6,17 @@
     "slug": "irguk-website",
     "status": "down",
     "uptime": "99.21%",
-    "uptimeDay": "72.07%",
-    "uptimeWeek": "84.30%",
-    "uptimeMonth": "89.78%",
+    "uptimeDay": "67.57%",
+    "uptimeWeek": "83.66%",
+    "uptimeMonth": "89.64%",
     "uptimeYear": "98.74%",
     "time": 776,
-    "timeDay": 637,
-    "timeWeek": 675,
-    "timeMonth": 663,
+    "timeDay": 662,
+    "timeWeek": 679,
+    "timeMonth": 664,
     "timeYear": 692,
     "dailyMinutesDown": {
-      "2026-04-16": 361,
+      "2026-04-16": 426,
       "2026-04-15": 134,
       "2026-04-14": 227,
       "2026-04-13": 364,
@@ -53,8 +53,7 @@
       "2026-03-10": 253,
       "2026-03-09": 314,
       "2026-03-08": 94,
-      "2026-03-07": 74,
-      "2026-03-06": 59
+      "2026-03-07": 74
     }
   },
   {
@@ -95,17 +94,17 @@
     "slug": "rachel-owens-website",
     "status": "down",
     "uptime": "99.22%",
-    "uptimeDay": "72.15%",
-    "uptimeWeek": "84.35%",
-    "uptimeMonth": "89.82%",
+    "uptimeDay": "67.67%",
+    "uptimeWeek": "83.71%",
+    "uptimeMonth": "89.67%",
     "uptimeYear": "98.74%",
-    "time": 836,
-    "timeDay": 886,
-    "timeWeek": 874,
-    "timeMonth": 842,
+    "time": 837,
+    "timeDay": 899,
+    "timeWeek": 878,
+    "timeMonth": 843,
     "timeYear": 867,
     "dailyMinutesDown": {
-      "2026-04-16": 359,
+      "2026-04-16": 424,
       "2026-04-15": 133,
       "2026-04-14": 226,
       "2026-04-13": 363,
@@ -142,8 +141,7 @@
       "2026-03-10": 252,
       "2026-03-09": 313,
       "2026-03-08": 94,
-      "2026-03-07": 74,
-      "2026-03-06": 59
+      "2026-03-07": 74
     }
   },
   {
