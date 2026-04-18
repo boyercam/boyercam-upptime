@@ -4,9 +4,9 @@
     "url": "https://www.irguk.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.irguk.co.uk.ico",
     "slug": "irguk-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.20%",
-    "uptimeDay": "79.93%",
+    "uptimeDay": "79.91%",
     "uptimeWeek": "78.91%",
     "uptimeMonth": "89.16%",
     "uptimeYear": "98.71%",
@@ -53,7 +53,7 @@
       "2026-03-12": 231,
       "2026-03-11": 192,
       "2026-03-10": 253,
-      "2026-03-09": 80
+      "2026-03-09": 46
     }
   },
   {
@@ -92,12 +92,12 @@
     "url": "https://www.rachelowens.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.rachelowens.co.uk.ico",
     "slug": "rachel-owens-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.20%",
-    "uptimeDay": "80.01%",
+    "uptimeDay": "80.00%",
     "uptimeWeek": "78.96%",
     "uptimeMonth": "89.19%",
-    "uptimeYear": "98.71%",
+    "uptimeYear": "98.72%",
     "time": 841,
     "timeDay": 831,
     "timeWeek": 870,
@@ -141,7 +141,7 @@
       "2026-03-12": 230,
       "2026-03-11": 191,
       "2026-03-10": 252,
-      "2026-03-09": 80
+      "2026-03-09": 46
     }
   },
   {
