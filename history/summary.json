@@ -4,19 +4,19 @@
     "url": "https://www.irguk.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.irguk.co.uk.ico",
     "slug": "irguk-website",
-    "status": "up",
-    "uptime": "99.03%",
-    "uptimeDay": "87.99%",
-    "uptimeWeek": "91.62%",
-    "uptimeMonth": "89.29%",
-    "uptimeYear": "98.36%",
+    "status": "down",
+    "uptime": "99.04%",
+    "uptimeDay": "87.64%",
+    "uptimeWeek": "94.10%",
+    "uptimeMonth": "89.28%",
+    "uptimeYear": "98.38%",
     "time": 724,
     "timeDay": 627,
     "timeWeek": 695,
     "timeMonth": 673,
     "timeYear": 686,
     "dailyMinutesDown": {
-      "2026-05-20": 173,
+      "2026-05-20": 178,
       "2026-05-18": 196,
       "2026-05-16": 167,
       "2026-05-13": 309,
@@ -58,7 +58,7 @@
       "2026-04-02": 73,
       "2026-04-01": 114,
       "2026-03-31": 40,
-      "2026-03-29": 167
+      "2026-03-29": 73
     }
   },
   {
@@ -97,13 +97,13 @@
     "url": "https://www.rachelowens.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.rachelowens.co.uk.ico",
     "slug": "rachel-owens-website",
-    "status": "up",
-    "uptime": "99.04%",
-    "uptimeDay": "88.32%",
-    "uptimeWeek": "91.91%",
+    "status": "down",
+    "uptime": "99.05%",
+    "uptimeDay": "88.31%",
+    "uptimeWeek": "94.39%",
     "uptimeMonth": "89.57%",
-    "uptimeYear": "98.38%",
-    "time": 849,
+    "uptimeYear": "98.39%",
+    "time": 850,
     "timeDay": 665,
     "timeWeek": 827,
     "timeMonth": 870,
@@ -151,8 +151,7 @@
       "2026-04-02": 73,
       "2026-04-01": 114,
       "2026-03-31": 40,
-      "2026-03-29": 166,
-      "2026-03-28": 35
+      "2026-03-29": 166
     }
   },
   {
