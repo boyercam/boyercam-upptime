@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.irguk.co.uk.ico",
     "slug": "irguk-website",
     "status": "up",
-    "uptime": "98.23%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "69.21%",
-    "uptimeMonth": "72.38%",
-    "uptimeYear": "96.84%",
+    "uptime": "98.22%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "70.08%",
+    "uptimeMonth": "72.40%",
+    "uptimeYear": "96.81%",
     "time": 679,
     "timeDay": 254,
-    "timeWeek": 382,
+    "timeWeek": 379,
     "timeMonth": 499,
     "timeYear": 664,
     "dailyMinutesDown": {
-      "2026-04-24": 163,
+      "2026-04-24": 282,
       "2026-04-25": 346,
       "2026-04-26": 266,
       "2026-04-27": 173,
@@ -61,8 +61,7 @@
       "2026-06-18": 824,
       "2026-06-19": 379,
       "2026-06-20": 421,
-      "2026-06-21": 294,
-      "2026-06-23": 5
+      "2026-06-21": 294
     }
   },
   {
@@ -75,10 +74,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.36%",
+    "uptimeYear": "99.38%",
     "time": 654,
     "timeDay": 683,
-    "timeWeek": 595,
+    "timeWeek": 577,
     "timeMonth": 667,
     "timeYear": 653,
     "dailyMinutesDown": {
@@ -93,18 +92,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.rachelowens.co.uk.ico",
     "slug": "rachel-owens-website",
     "status": "up",
-    "uptime": "98.33%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "72.95%",
-    "uptimeMonth": "74.60%",
-    "uptimeYear": "97.02%",
+    "uptime": "98.32%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "73.76%",
+    "uptimeMonth": "74.61%",
+    "uptimeYear": "97.00%",
     "time": 857,
     "timeDay": 778,
-    "timeWeek": 859,
+    "timeWeek": 874,
     "timeMonth": 844,
     "timeYear": 871,
     "dailyMinutesDown": {
-      "2026-04-24": 282,
+      "2026-04-24": 418,
       "2026-04-25": 346,
       "2026-04-26": 265,
       "2026-04-27": 173,
@@ -149,8 +148,7 @@
       "2026-06-18": 621,
       "2026-06-19": 370,
       "2026-06-20": 287,
-      "2026-06-21": 279,
-      "2026-06-23": 1
+      "2026-06-21": 279
     }
   },
   {
@@ -166,7 +164,7 @@
     "uptimeYear": "99.81%",
     "time": 560,
     "timeDay": 481,
-    "timeWeek": 488,
+    "timeWeek": 470,
     "timeMonth": 496,
     "timeYear": 559,
     "dailyMinutesDown": {
