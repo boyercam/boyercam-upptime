@@ -162,16 +162,16 @@
     "url": "$SEC_DDNS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ddns",
-    "status": "down",
-    "uptime": "99.79%",
-    "uptimeDay": "95.20%",
-    "uptimeWeek": "98.65%",
-    "uptimeMonth": "99.69%",
-    "uptimeYear": "99.79%",
+    "status": "up",
+    "uptime": "99.77%",
+    "uptimeDay": "90.24%",
+    "uptimeWeek": "97.26%",
+    "uptimeMonth": "99.37%",
+    "uptimeYear": "99.76%",
     "time": 555,
-    "timeDay": 449,
-    "timeWeek": 463,
-    "timeMonth": 484,
+    "timeDay": 508,
+    "timeWeek": 467,
+    "timeMonth": 485,
     "timeYear": 556,
     "dailyMinutesDown": {
       "2025-07-28": 39,
@@ -190,7 +190,7 @@
       "2026-04-29": 1,
       "2026-04-28": 85,
       "2026-07-08": 136,
-      "2026-07-09": 0
+      "2026-07-09": 141
     }
   }
 ]
