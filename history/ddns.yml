@@ -1,7 +1,7 @@
 url: $SEC_DDNS
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-07-12T20:41:13.206Z
+status: up
+code: 200
+responseTime: 442
+lastUpdated: 2026-07-12T21:23:16.849Z
 startTime: 2024-09-25T20:03:18.141Z
 generator: Upptime <https://github.com/upptime/upptime>
