@@ -8,7 +8,7 @@
     "uptime": "98.16%",
     "uptimeDay": "95.84%",
     "uptimeWeek": "90.67%",
-    "uptimeMonth": "85.03%",
+    "uptimeMonth": "85.18%",
     "uptimeYear": "96.58%",
     "time": 655,
     "timeDay": 328,
@@ -95,16 +95,16 @@
     "url": "https://www.rachelowens.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.rachelowens.co.uk.ico",
     "slug": "rachel-owens-website",
-    "status": "down",
+    "status": "up",
     "uptime": "98.28%",
-    "uptimeDay": "96.16%",
-    "uptimeWeek": "91.09%",
+    "uptimeDay": "91.48%",
+    "uptimeWeek": "90.43%",
     "uptimeMonth": "85.79%",
-    "uptimeYear": "96.82%",
+    "uptimeYear": "96.81%",
     "time": 850,
-    "timeDay": 722,
-    "timeWeek": 818,
-    "timeMonth": 803,
+    "timeDay": 725,
+    "timeWeek": 813,
+    "timeMonth": 802,
     "timeYear": 865,
     "dailyMinutesDown": {
       "2026-05-09": 131,
@@ -157,7 +157,7 @@
       "2026-07-12": 51,
       "2026-07-14": 306,
       "2026-07-15": 196,
-      "2026-07-16": 0
+      "2026-07-16": 68
     }
   },
   {
