@@ -4,15 +4,15 @@
     "url": "https://www.irguk.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.irguk.co.uk.ico",
     "slug": "irguk-website",
-    "status": "down",
+    "status": "up",
     "uptime": "98.12%",
-    "uptimeDay": "85.95%",
-    "uptimeWeek": "84.59%",
-    "uptimeMonth": "89.19%",
+    "uptimeDay": "84.62%",
+    "uptimeWeek": "84.40%",
+    "uptimeMonth": "89.14%",
     "uptimeYear": "96.46%",
     "time": 651,
-    "timeDay": 439,
-    "timeWeek": 509,
+    "timeDay": 428,
+    "timeWeek": 502,
     "timeMonth": 393,
     "timeYear": 632,
     "dailyMinutesDown": {
@@ -68,7 +68,8 @@
       "2026-07-22": 199,
       "2026-07-24": 414,
       "2026-07-25": 58,
-      "2026-07-26": 202
+      "2026-07-26": 215,
+      "2026-07-27": 7
     }
   },
   {
@@ -82,10 +83,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 652,
-    "timeDay": 557,
-    "timeWeek": 594,
-    "timeMonth": 577,
+    "time": 653,
+    "timeDay": 596,
+    "timeWeek": 599,
+    "timeMonth": 578,
     "timeYear": 647,
     "dailyMinutesDown": {
       "2026-03-19": 42
@@ -96,16 +97,16 @@
     "url": "https://www.rachelowens.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.rachelowens.co.uk.ico",
     "slug": "rachel-owens-website",
-    "status": "down",
+    "status": "up",
     "uptime": "98.27%",
-    "uptimeDay": "87.28%",
-    "uptimeWeek": "85.07%",
-    "uptimeMonth": "89.30%",
+    "uptimeDay": "85.96%",
+    "uptimeWeek": "84.88%",
+    "uptimeMonth": "89.25%",
     "uptimeYear": "96.75%",
     "time": 856,
-    "timeDay": 727,
-    "timeWeek": 852,
-    "timeMonth": 797,
+    "timeDay": 776,
+    "timeWeek": 856,
+    "timeMonth": 799,
     "timeYear": 864,
     "dailyMinutesDown": {
       "2026-05-21": 157,
@@ -160,7 +161,8 @@
       "2026-07-22": 194,
       "2026-07-24": 405,
       "2026-07-25": 53,
-      "2026-07-26": 182
+      "2026-07-26": 195,
+      "2026-07-27": 7
     }
   },
   {
@@ -175,8 +177,8 @@
     "uptimeMonth": "97.52%",
     "uptimeYear": "99.61%",
     "time": 556,
-    "timeDay": 344,
-    "timeWeek": 478,
+    "timeDay": 373,
+    "timeWeek": 474,
     "timeMonth": 455,
     "timeYear": 546,
     "dailyMinutesDown": {
