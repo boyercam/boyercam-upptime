@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.irguk.co.uk.ico",
     "slug": "irguk-website",
     "status": "up",
-    "uptime": "98.72%",
+    "uptime": "98.73%",
     "uptimeDay": "86.67%",
     "uptimeWeek": "85.78%",
     "uptimeMonth": "87.07%",
@@ -160,17 +160,17 @@
     "url": "$SEC_DDNS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ddns",
-    "status": "down",
-    "uptime": "99.64%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "97.68%",
-    "uptimeYear": "99.50%",
-    "time": 546,
-    "timeDay": 318,
-    "timeWeek": 442,
-    "timeMonth": 441,
-    "timeYear": 538,
+    "status": "up",
+    "uptime": "99.63%",
+    "uptimeDay": "93.83%",
+    "uptimeWeek": "98.80%",
+    "uptimeMonth": "97.48%",
+    "uptimeYear": "99.48%",
+    "time": 545,
+    "timeDay": 312,
+    "timeWeek": 427,
+    "timeMonth": 437,
+    "timeYear": 537,
     "dailyMinutesDown": {
       "2025-08-18": 60,
       "2025-09-09": 24,
@@ -202,7 +202,7 @@
       "2026-08-04": 149,
       "2026-08-07": 76,
       "2026-08-09": 32,
-      "2026-08-15": 0
+      "2026-08-15": 89
     }
   }
 ]
