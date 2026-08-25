@@ -4,16 +4,16 @@
     "url": "https://www.irguk.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.irguk.co.uk.ico",
     "slug": "irguk-website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.11%",
-    "uptimeDay": "97.90%",
-    "uptimeWeek": "95.84%",
-    "uptimeMonth": "88.72%",
+    "uptimeDay": "96.18%",
+    "uptimeWeek": "95.59%",
+    "uptimeMonth": "88.67%",
     "uptimeYear": "98.26%",
     "time": 638,
-    "timeDay": 397,
-    "timeWeek": 582,
-    "timeMonth": 623,
+    "timeDay": 479,
+    "timeWeek": 585,
+    "timeMonth": 625,
     "timeYear": 627,
     "dailyMinutesDown": {
       "2026-06-28": 184,
@@ -64,7 +64,7 @@
       "2026-08-22": 32,
       "2026-08-23": 36,
       "2026-08-24": 30,
-      "2026-08-25": 0
+      "2026-08-25": 25
     }
   },
   {
@@ -81,7 +81,7 @@
     "time": 650,
     "timeDay": 719,
     "timeWeek": 664,
-    "timeMonth": 636,
+    "timeMonth": 628,
     "timeYear": 645,
     "dailyMinutesDown": {
       "2026-03-19": 42
@@ -92,17 +92,17 @@
     "url": "https://www.rachelowens.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.rachelowens.co.uk.ico",
     "slug": "rachel-owens-website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.17%",
-    "uptimeDay": "98.56%",
-    "uptimeWeek": "96.68%",
-    "uptimeMonth": "90.23%",
-    "uptimeYear": "98.38%",
+    "uptimeDay": "96.85%",
+    "uptimeWeek": "96.44%",
+    "uptimeMonth": "90.17%",
+    "uptimeYear": "98.37%",
     "time": 848,
-    "timeDay": 850,
-    "timeWeek": 862,
-    "timeMonth": 835,
-    "timeYear": 861,
+    "timeDay": 812,
+    "timeWeek": 856,
+    "timeMonth": 832,
+    "timeYear": 860,
     "dailyMinutesDown": {
       "2026-06-27": 101,
       "2026-06-28": 189,
@@ -153,7 +153,7 @@
       "2026-08-21": 20,
       "2026-08-23": 35,
       "2026-08-24": 20,
-      "2026-08-25": 0
+      "2026-08-25": 25
     }
   },
   {
@@ -170,7 +170,7 @@
     "time": 542,
     "timeDay": 457,
     "timeWeek": 464,
-    "timeMonth": 433,
+    "timeMonth": 427,
     "timeYear": 534,
     "dailyMinutesDown": {
       "2025-09-09": 24,
