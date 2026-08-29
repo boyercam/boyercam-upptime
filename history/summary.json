@@ -6,9 +6,9 @@
     "slug": "irguk-website",
     "status": "down",
     "uptime": "99.17%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "98.11%",
-    "uptimeMonth": "90.01%",
+    "uptimeDay": "97.23%",
+    "uptimeWeek": "97.77%",
+    "uptimeMonth": "89.93%",
     "uptimeYear": "98.36%",
     "time": 637,
     "timeDay": 636,
@@ -62,7 +62,7 @@
       "2026-08-23": 36,
       "2026-08-24": 30,
       "2026-08-25": 88,
-      "2026-08-29": 5
+      "2026-08-29": 40
     }
   },
   {
@@ -92,10 +92,10 @@
     "slug": "rachel-owens-website",
     "status": "down",
     "uptime": "99.18%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "98.77%",
-    "uptimeMonth": "91.16%",
-    "uptimeYear": "98.39%",
+    "uptimeDay": "97.56%",
+    "uptimeWeek": "98.43%",
+    "uptimeMonth": "91.08%",
+    "uptimeYear": "98.38%",
     "time": 849,
     "timeDay": 778,
     "timeWeek": 833,
@@ -151,7 +151,7 @@
       "2026-08-23": 35,
       "2026-08-24": 20,
       "2026-08-25": 46,
-      "2026-08-29": 0
+      "2026-08-29": 35
     }
   },
   {
