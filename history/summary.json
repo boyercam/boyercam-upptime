@@ -4,16 +4,16 @@
     "url": "https://www.irguk.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.irguk.co.uk.ico",
     "slug": "irguk-website",
-    "status": "down",
-    "uptime": "99.13%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "91.18%",
-    "uptimeMonth": "92.67%",
-    "uptimeYear": "98.26%",
+    "status": "up",
+    "uptime": "99.11%",
+    "uptimeDay": "80.60%",
+    "uptimeWeek": "88.45%",
+    "uptimeMonth": "92.04%",
+    "uptimeYear": "98.21%",
     "time": 649,
-    "timeDay": 544,
-    "timeWeek": 586,
-    "timeMonth": 653,
+    "timeDay": 619,
+    "timeWeek": 601,
+    "timeMonth": 655,
     "timeYear": 627,
     "dailyMinutesDown": {
       "2026-07-07": 59,
@@ -66,7 +66,7 @@
       "2026-09-05": 201,
       "2026-09-07": 634,
       "2026-09-11": 51,
-      "2026-09-12": 4
+      "2026-09-12": 279
     }
   },
   {
