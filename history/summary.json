@@ -11,9 +11,9 @@
     "uptimeMonth": "98.39%",
     "uptimeYear": "98.07%",
     "time": 627,
-    "timeDay": 396,
-    "timeWeek": 497,
-    "timeMonth": 485,
+    "timeDay": 568,
+    "timeWeek": 527,
+    "timeMonth": 505,
     "timeYear": 617,
     "dailyMinutesDown": {
       "2026-07-11": 104,
@@ -81,11 +81,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 639,
-    "timeDay": 413,
-    "timeWeek": 502,
-    "timeMonth": 544,
-    "timeYear": 635,
+    "time": 638,
+    "timeDay": 484,
+    "timeWeek": 509,
+    "timeMonth": 551,
+    "timeYear": 634,
     "dailyMinutesDown": {
       "2026-03-19": 42
     }
@@ -102,9 +102,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.27%",
     "time": 857,
-    "timeDay": 804,
-    "timeWeek": 742,
-    "timeMonth": 803,
+    "timeDay": 938,
+    "timeWeek": 783,
+    "timeMonth": 813,
     "timeYear": 858,
     "dailyMinutesDown": {
       "2026-07-04": 119,
@@ -167,17 +167,17 @@
     "url": "$SEC_DDNS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ddns",
-    "status": "down",
-    "uptime": "99.64%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.49%",
-    "time": 529,
-    "timeDay": 506,
-    "timeWeek": 480,
-    "timeMonth": 416,
-    "timeYear": 504,
+    "status": "up",
+    "uptime": "99.63%",
+    "uptimeDay": "93.98%",
+    "uptimeWeek": "99.14%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.47%",
+    "time": 530,
+    "timeDay": 605,
+    "timeWeek": 508,
+    "timeMonth": 425,
+    "timeYear": 505,
     "dailyMinutesDown": {
       "2025-10-23": 229,
       "2025-10-31": 54,
@@ -207,7 +207,7 @@
       "2026-08-15": 199,
       "2026-08-16": 77,
       "2026-08-17": 60,
-      "2026-10-14": 0
+      "2026-10-14": 87
     }
   }
 ]
